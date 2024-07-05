@@ -1,0 +1,47 @@
+#nav{
+    background-color:black ;
+    color:white;
+
+}
+#sec2{
+    margin-left:40%;
+}
+.space{
+    margin-right:20px;
+}
+#sec5{
+    width: 100%;
+    height: 92.38vh;
+}
+.but{
+    
+    width:3.7cm;
+    height:1.6cm;
+    margin-left:47%;
+    margin-top:23.5%;
+    border-radius:3mm;
+}
+#but:hover{
+    width: 3.4cm;
+    height: 1.5cm;
+    background-color:rgb(62, 184, 214);
+}
+
+
+#firstinput{
+    border: .5mm solid black;
+    height: 1cm;
+    width:11cm;
+}
+#secondinput{
+    border: .5mm solid black;
+    height: 1cm;
+    width:8cm;
+}
+
+footer{
+    width: 100%;
+    height:5.88vh;
+    margin-bottom: 1vh;
+}
+
